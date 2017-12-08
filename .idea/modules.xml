@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocationAndroidApp_Version0.iml" filepath="$PROJECT_DIR$/LocationAndroidApp_Version0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocationAndroidApp_Version0-master-dbcbc83f47094b8e83e2d45072efea843803b3b4.iml" filepath="$PROJECT_DIR$/LocationAndroidApp_Version0-master-dbcbc83f47094b8e83e2d45072efea843803b3b4.iml" />
+      <module fileurl="file://C:\Users\User\MindLab\LocationAndroidApp_Version0\WorkingAndroidService.iml" filepath="C:\Users\User\MindLab\LocationAndroidApp_Version0\WorkingAndroidService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
